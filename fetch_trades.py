@@ -14,17 +14,25 @@ from collections import defaultdict
 WALLET_ADDRESS = "0x29bc82f761749e67fa00d62896bc6855097b683c"
 USERNAME = "BoshBashBish"
 BASE_URL = "https://data-api.polymarket.com"
-OUTPUT_FILE = "boshbashbish_trades.json"
-ANALYSIS_FILE = "boshbashbish_analysis.json"
+OUTPUT_FILE = "boshbashbish_btc_december_trades.json"
+ANALYSIS_FILE = "boshbashbish_btc_december_analysis.json"
+
+# Filtro per mercato (None = tutti)
+# Filtro su TITLE per prendere solo "Bitcoin Up or Down - December"
+MARKET_FILTER = None  # Disabilito il filtro slug
+TITLE_FILTER = "Bitcoin Up or Down - December"
 
 
-def fetch_all_trades(wallet_address: str, limit: int = 100, start_offset: int = 0) -> list:
-    """Scarica tutti i trades di un wallet con paginazione e retry"""
+def fetch_all_trades(wallet_address: str, limit: int = 100, start_offset: int = 0, title_filter: str = None, max_empty_pages: int = 50) -> list:
+    """Scarica trades di un wallet con paginazione, retry e filtro on-the-fly"""
     all_trades = []
     offset = start_offset
     max_retries = 3
+    empty_pages_count = 0  # Contatore pagine senza match
 
     print(f"🔄 Scaricando trades per wallet: {wallet_address}")
+    if title_filter:
+        print(f"🔍 Filtro attivo: {title_filter}")
 
     while True:
         url = f"{BASE_URL}/trades"
@@ -53,8 +61,21 @@ def fetch_all_trades(wallet_address: str, limit: int = 100, start_offset: int = 
         if not trades:
             break
 
-        all_trades.extend(trades)
-        print(f"  📦 Scaricati {len(all_trades)} trades...")
+        # Filtra on-the-fly se specificato
+        if title_filter:
+            filtered = [t for t in trades if title_filter in t.get("title", "")]
+            if filtered:
+                all_trades.extend(filtered)
+                empty_pages_count = 0  # Reset counter
+                print(f"  📦 Trovati {len(filtered)} trades (totale: {len(all_trades)})")
+            else:
+                empty_pages_count += 1
+                if empty_pages_count >= max_empty_pages:
+                    print(f"  ⏹️  {max_empty_pages} pagine senza match, fermando...")
+                    break
+        else:
+            all_trades.extend(trades)
+            print(f"  📦 Scaricati {len(all_trades)} trades...")
 
         if len(trades) < limit:
             break
@@ -62,7 +83,7 @@ def fetch_all_trades(wallet_address: str, limit: int = 100, start_offset: int = 
         offset += limit
         time.sleep(0.3)  # Rate limiting
 
-    print(f"✅ Totale trades scaricati: {len(all_trades)}")
+    print(f"✅ Totale trades filtrati: {len(all_trades)}")
     return all_trades
 
 
@@ -241,11 +262,25 @@ def main():
     print("=" * 60)
     print()
 
-    # Fetch all trades
-    raw_trades = fetch_all_trades(WALLET_ADDRESS)
+    # Fetch all trades con filtro on-the-fly
+    raw_trades = fetch_all_trades(WALLET_ADDRESS, title_filter=TITLE_FILTER)
 
     if not raw_trades:
         print("❌ Nessun trade trovato!")
+        return
+
+    # Filter by market slug if specified
+    if MARKET_FILTER:
+        print(f"\n🔍 Filtrando per slug mercato: {MARKET_FILTER}")
+        original_count = len(raw_trades)
+        raw_trades = [t for t in raw_trades if MARKET_FILTER in t.get("slug", "")]
+        print(f"   Trades filtrati: {len(raw_trades)} / {original_count}")
+
+    # Filter by title - già fatto on-the-fly se TITLE_FILTER era specificato
+    # in fetch_all_trades(), quindi qui non serve più
+
+    if not raw_trades:
+        print("❌ Nessun trade trovato dopo il filtro!")
         return
 
     # Format trades
