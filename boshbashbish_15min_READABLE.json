@@ -1,0 +1,2658 @@
+{
+  "info": {
+    "bot_wallet": "0x29bc82f761749e67fa00d62896bc6855097b683c",
+    "bot_name": "BoshBashBish",
+    "market_type": "Bitcoin Up/Down 15-minute",
+    "total_cycles": 6,
+    "total_trades": 355,
+    "date": "December 17, 2024"
+  },
+  "cycles": [
+    {
+      "market": "Bitcoin Up or Down - December 17, 4:30AM-4:45AM ET",
+      "summary": {
+        "total_trades": 65,
+        "duration_seconds": 724,
+        "first_trade_utc": "09:30:11",
+        "last_trade_utc": "09:42:15",
+        "up": {
+          "trades": 30,
+          "shares": 1098,
+          "cost": 676.16,
+          "avg_price": 0.616
+        },
+        "down": {
+          "trades": 35,
+          "shares": 1465,
+          "cost": 521.7,
+          "avg_price": 0.356
+        },
+        "total_invested": 1197.86,
+        "pnl_if_up_wins": -99.79,
+        "pnl_if_down_wins": 267.19
+      },
+      "trades": [
+        {
+          "time": "09:30:11",
+          "side": "Down",
+          "price": 0.49,
+          "size": 50,
+          "tx": "0x7abed61588f49d..."
+        },
+        {
+          "time": "09:30:11",
+          "side": "Down",
+          "price": 0.5,
+          "size": 50,
+          "tx": "0xeb93b51b945626..."
+        },
+        {
+          "time": "09:30:29",
+          "side": "Down",
+          "price": 0.5597906819716408,
+          "size": 29,
+          "tx": "0x3bdff75a470311..."
+        },
+        {
+          "time": "09:30:39",
+          "side": "Up",
+          "price": 0.44,
+          "size": 50,
+          "tx": "0x3886df504dea64..."
+        },
+        {
+          "time": "09:31:05",
+          "side": "Up",
+          "price": 0.41,
+          "size": 50,
+          "tx": "0x05225ab476d61a..."
+        },
+        {
+          "time": "09:31:21",
+          "side": "Up",
+          "price": 0.43,
+          "size": 15,
+          "tx": "0xe173cbcc9b8e48..."
+        },
+        {
+          "time": "09:31:23",
+          "side": "Up",
+          "price": 0.463,
+          "size": 50,
+          "tx": "0x593e1858a7bae5..."
+        },
+        {
+          "time": "09:32:23",
+          "side": "Down",
+          "price": 0.65,
+          "size": 50,
+          "tx": "0x0f3892e4825e35..."
+        },
+        {
+          "time": "09:32:23",
+          "side": "Down",
+          "price": 0.69,
+          "size": 50,
+          "tx": "0xe57c3b45d2855b..."
+        },
+        {
+          "time": "09:33:15",
+          "side": "Up",
+          "price": 0.34,
+          "size": 34,
+          "tx": "0xfe725d0364a319..."
+        },
+        {
+          "time": "09:33:37",
+          "side": "Down",
+          "price": 0.66,
+          "size": 50,
+          "tx": "0x144e4179a13749..."
+        },
+        {
+          "time": "09:33:41",
+          "side": "Down",
+          "price": 0.66,
+          "size": 14,
+          "tx": "0xfb91e2f9ee10cd..."
+        },
+        {
+          "time": "09:33:51",
+          "side": "Down",
+          "price": 0.71,
+          "size": 2,
+          "tx": "0x77f4786c088c76..."
+        },
+        {
+          "time": "09:34:07",
+          "side": "Down",
+          "price": 0.7,
+          "size": 6,
+          "tx": "0x97a3959b37cd23..."
+        },
+        {
+          "time": "09:34:13",
+          "side": "Down",
+          "price": 0.72,
+          "size": 50,
+          "tx": "0x96d2c9ba4a5c8a..."
+        },
+        {
+          "time": "09:34:17",
+          "side": "Up",
+          "price": 0.286516,
+          "size": 50,
+          "tx": "0xad9fae92e304a4..."
+        },
+        {
+          "time": "09:34:27",
+          "side": "Up",
+          "price": 0.41,
+          "size": 2,
+          "tx": "0xa8febf29de4f64..."
+        },
+        {
+          "time": "09:34:33",
+          "side": "Up",
+          "price": 0.5,
+          "size": 50,
+          "tx": "0x0e83f85f2db5aa..."
+        },
+        {
+          "time": "09:34:35",
+          "side": "Up",
+          "price": 0.53,
+          "size": 50,
+          "tx": "0x0057c1359bf6b3..."
+        },
+        {
+          "time": "09:34:35",
+          "side": "Up",
+          "price": 0.505,
+          "size": 10,
+          "tx": "0x8843c03b7793ae..."
+        },
+        {
+          "time": "09:34:43",
+          "side": "Up",
+          "price": 0.53,
+          "size": 5,
+          "tx": "0xebdedd1254d7a8..."
+        },
+        {
+          "time": "09:34:55",
+          "side": "Down",
+          "price": 0.42,
+          "size": 50,
+          "tx": "0x78debb08934611..."
+        },
+        {
+          "time": "09:34:57",
+          "side": "Down",
+          "price": 0.44,
+          "size": 50,
+          "tx": "0xfe001b786c6db0..."
+        },
+        {
+          "time": "09:35:05",
+          "side": "Up",
+          "price": 0.66,
+          "size": 50,
+          "tx": "0x2b5dfb7bbbc660..."
+        },
+        {
+          "time": "09:35:09",
+          "side": "Down",
+          "price": 0.42,
+          "size": 50,
+          "tx": "0x53db164a503359..."
+        },
+        {
+          "time": "09:35:35",
+          "side": "Down",
+          "price": 0.43,
+          "size": 38,
+          "tx": "0xd98c49f5a20229..."
+        },
+        {
+          "time": "09:36:55",
+          "side": "Down",
+          "price": 0.32,
+          "size": 44,
+          "tx": "0x266df2d251d05b..."
+        },
+        {
+          "time": "09:37:07",
+          "side": "Down",
+          "price": 0.39,
+          "size": 50,
+          "tx": "0x18cc79fbd69194..."
+        },
+        {
+          "time": "09:37:09",
+          "side": "Down",
+          "price": 0.4,
+          "size": 50,
+          "tx": "0x270c0d141cfc42..."
+        },
+        {
+          "time": "09:37:13",
+          "side": "Down",
+          "price": 0.46,
+          "size": 50,
+          "tx": "0x89ee1f009ee767..."
+        },
+        {
+          "time": "09:37:33",
+          "side": "Up",
+          "price": 0.49,
+          "size": 50,
+          "tx": "0x52040d0794d828..."
+        },
+        {
+          "time": "09:37:47",
+          "side": "Up",
+          "price": 0.52,
+          "size": 20,
+          "tx": "0xfcf1a76bb2a9ad..."
+        },
+        {
+          "time": "09:37:57",
+          "side": "Up",
+          "price": 0.41,
+          "size": 50,
+          "tx": "0xe055381bc23574..."
+        },
+        {
+          "time": "09:38:09",
+          "side": "Up",
+          "price": 0.44,
+          "size": 8,
+          "tx": "0xfe600836f8b0bf..."
+        },
+        {
+          "time": "09:38:17",
+          "side": "Down",
+          "price": 0.49848,
+          "size": 50,
+          "tx": "0x5df2e37e26d479..."
+        },
+        {
+          "time": "09:38:25",
+          "side": "Up",
+          "price": 0.642,
+          "size": 50,
+          "tx": "0x08bb9b89ade11f..."
+        },
+        {
+          "time": "09:38:37",
+          "side": "Up",
+          "price": 0.6146,
+          "size": 50,
+          "tx": "0x5f08425f85b566..."
+        },
+        {
+          "time": "09:38:47",
+          "side": "Up",
+          "price": 0.64,
+          "size": 50,
+          "tx": "0xbc18c6d44cea60..."
+        },
+        {
+          "time": "09:38:47",
+          "side": "Up",
+          "price": 0.66,
+          "size": 50,
+          "tx": "0x1b029c4ed75490..."
+        },
+        {
+          "time": "09:39:01",
+          "side": "Down",
+          "price": 0.37787878787878787,
+          "size": 33,
+          "tx": "0xfb93f18298f9ad..."
+        },
+        {
+          "time": "09:39:01",
+          "side": "Down",
+          "price": 0.41,
+          "size": 15,
+          "tx": "0x89dd58c9c3e58d..."
+        },
+        {
+          "time": "09:39:03",
+          "side": "Up",
+          "price": 0.61,
+          "size": 10,
+          "tx": "0x4b27dcd1e758cf..."
+        },
+        {
+          "time": "09:39:09",
+          "side": "Up",
+          "price": 0.69,
+          "size": 21,
+          "tx": "0xba6fb06513fec0..."
+        },
+        {
+          "time": "09:39:09",
+          "side": "Up",
+          "price": 0.71,
+          "size": 50,
+          "tx": "0x76f4613727e992..."
+        },
+        {
+          "time": "09:39:17",
+          "side": "Down",
+          "price": 0.32,
+          "size": 50,
+          "tx": "0xe96e51b9bf4e7e..."
+        },
+        {
+          "time": "09:39:27",
+          "side": "Down",
+          "price": 0.35,
+          "size": 50,
+          "tx": "0x0a2f96bc6f11ac..."
+        },
+        {
+          "time": "09:39:51",
+          "side": "Up",
+          "price": 0.76,
+          "size": 50,
+          "tx": "0x30c75a6c81f2fa..."
+        },
+        {
+          "time": "09:39:55",
+          "side": "Down",
+          "price": 0.17,
+          "size": 50,
+          "tx": "0x795ec1a9238bb7..."
+        },
+        {
+          "time": "09:39:57",
+          "side": "Down",
+          "price": 0.2,
+          "size": 50,
+          "tx": "0xfc529a6ceb29eb..."
+        },
+        {
+          "time": "09:40:15",
+          "side": "Down",
+          "price": 0.13,
+          "size": 50,
+          "tx": "0x498569b586cc92..."
+        },
+        {
+          "time": "09:40:23",
+          "side": "Down",
+          "price": 0.13,
+          "size": 50,
+          "tx": "0x48279270c247fc..."
+        },
+        {
+          "time": "09:40:31",
+          "side": "Down",
+          "price": 0.08,
+          "size": 50,
+          "tx": "0x2e5e6727eba806..."
+        },
+        {
+          "time": "09:40:45",
+          "side": "Down",
+          "price": 0.08,
+          "size": 21,
+          "tx": "0x36f41c40eb1766..."
+        },
+        {
+          "time": "09:40:47",
+          "side": "Down",
+          "price": 0.09,
+          "size": 50,
+          "tx": "0xf66ef22c72d18d..."
+        },
+        {
+          "time": "09:40:51",
+          "side": "Down",
+          "price": 0.12,
+          "size": 10,
+          "tx": "0x50413c545afb59..."
+        },
+        {
+          "time": "09:40:57",
+          "side": "Down",
+          "price": 0.14,
+          "size": 50,
+          "tx": "0x768e815b2b2ccc..."
+        },
+        {
+          "time": "09:41:03",
+          "side": "Down",
+          "price": 0.13,
+          "size": 50,
+          "tx": "0x9a8234d63d2c61..."
+        },
+        {
+          "time": "09:41:25",
+          "side": "Down",
+          "price": 0.11,
+          "size": 50,
+          "tx": "0x34391ad7690516..."
+        },
+        {
+          "time": "09:41:29",
+          "side": "Up",
+          "price": 0.93,
+          "size": 50,
+          "tx": "0x27b419e3b67623..."
+        },
+        {
+          "time": "09:41:49",
+          "side": "Down",
+          "price": 0.15,
+          "size": 50,
+          "tx": "0x225c60f7654cb2..."
+        },
+        {
+          "time": "09:41:57",
+          "side": "Up",
+          "price": 0.86,
+          "size": 50,
+          "tx": "0xe33d54b85f6930..."
+        },
+        {
+          "time": "09:41:57",
+          "side": "Up",
+          "price": 0.85,
+          "size": 7,
+          "tx": "0x81fd4c072481af..."
+        },
+        {
+          "time": "09:42:11",
+          "side": "Up",
+          "price": 0.91,
+          "size": 13,
+          "tx": "0x86df8ba254de30..."
+        },
+        {
+          "time": "09:42:15",
+          "side": "Up",
+          "price": 0.944,
+          "size": 50,
+          "tx": "0xd805d1651ed9ad..."
+        },
+        {
+          "time": "09:42:15",
+          "side": "Up",
+          "price": 0.96,
+          "size": 50,
+          "tx": "0x08424cd9589f8e..."
+        }
+      ]
+    },
+    {
+      "market": "Bitcoin Up or Down - December 17, 4:45AM-5:00AM ET",
+      "summary": {
+        "total_trades": 42,
+        "duration_seconds": 736,
+        "first_trade_utc": "09:45:09",
+        "last_trade_utc": "09:57:25",
+        "up": {
+          "trades": 19,
+          "shares": 753,
+          "cost": 386.47,
+          "avg_price": 0.513
+        },
+        "down": {
+          "trades": 23,
+          "shares": 1100,
+          "cost": 548.35,
+          "avg_price": 0.498
+        },
+        "total_invested": 934.82,
+        "pnl_if_up_wins": -181.82,
+        "pnl_if_down_wins": 165.18
+      },
+      "trades": [
+        {
+          "time": "09:45:09",
+          "side": "Down",
+          "price": 0.49,
+          "size": 50,
+          "tx": "0x32cefaf0fcd4f3..."
+        },
+        {
+          "time": "09:45:13",
+          "side": "Down",
+          "price": 0.5,
+          "size": 50,
+          "tx": "0xea1c5bdb683ee8..."
+        },
+        {
+          "time": "09:45:13",
+          "side": "Up",
+          "price": 0.5,
+          "size": 50,
+          "tx": "0xb96af7cd01c0f2..."
+        },
+        {
+          "time": "09:45:25",
+          "side": "Down",
+          "price": 0.53,
+          "size": 50,
+          "tx": "0x836c6cb955b264..."
+        },
+        {
+          "time": "09:46:07",
+          "side": "Up",
+          "price": 0.47,
+          "size": 20,
+          "tx": "0x44d73853f558e3..."
+        },
+        {
+          "time": "09:46:45",
+          "side": "Up",
+          "price": 0.44,
+          "size": 50,
+          "tx": "0xc988102dc06495..."
+        },
+        {
+          "time": "09:47:49",
+          "side": "Up",
+          "price": 0.51,
+          "size": 50,
+          "tx": "0xe12db915c15b75..."
+        },
+        {
+          "time": "09:48:03",
+          "side": "Up",
+          "price": 0.59,
+          "size": 13,
+          "tx": "0xbde8881e4e0d01..."
+        },
+        {
+          "time": "09:48:07",
+          "side": "Down",
+          "price": 0.453,
+          "size": 50,
+          "tx": "0xeffcbc2f5502ab..."
+        },
+        {
+          "time": "09:48:09",
+          "side": "Down",
+          "price": 0.46,
+          "size": 50,
+          "tx": "0x44330c632b5e10..."
+        },
+        {
+          "time": "09:49:17",
+          "side": "Down",
+          "price": 0.44,
+          "size": 50,
+          "tx": "0x91416b328943e0..."
+        },
+        {
+          "time": "09:49:17",
+          "side": "Up",
+          "price": 0.56,
+          "size": 50,
+          "tx": "0x0a5d0632723211..."
+        },
+        {
+          "time": "09:49:29",
+          "side": "Up",
+          "price": 0.6,
+          "size": 50,
+          "tx": "0x125b6535fd0532..."
+        },
+        {
+          "time": "09:49:33",
+          "side": "Up",
+          "price": 0.63,
+          "size": 50,
+          "tx": "0xb5281b57f01a32..."
+        },
+        {
+          "time": "09:49:35",
+          "side": "Down",
+          "price": 0.39,
+          "size": 50,
+          "tx": "0x4ae1929920987a..."
+        },
+        {
+          "time": "09:49:37",
+          "side": "Up",
+          "price": 0.62,
+          "size": 50,
+          "tx": "0x1a1948f874fe5b..."
+        },
+        {
+          "time": "09:50:09",
+          "side": "Down",
+          "price": 0.37,
+          "size": 50,
+          "tx": "0x60f74d29ca1188..."
+        },
+        {
+          "time": "09:50:13",
+          "side": "Down",
+          "price": 0.37,
+          "size": 50,
+          "tx": "0xc03bf3a864dd74..."
+        },
+        {
+          "time": "09:50:17",
+          "side": "Down",
+          "price": 0.39,
+          "size": 50,
+          "tx": "0x8827f98fe6cdc8..."
+        },
+        {
+          "time": "09:51:19",
+          "side": "Down",
+          "price": 0.49,
+          "size": 8,
+          "tx": "0xa3b6b7f61bd8a7..."
+        },
+        {
+          "time": "09:51:21",
+          "side": "Up",
+          "price": 0.56,
+          "size": 5,
+          "tx": "0x6552f88c7dcbe8..."
+        },
+        {
+          "time": "09:52:43",
+          "side": "Up",
+          "price": 0.536,
+          "size": 50,
+          "tx": "0x80925dc9dbe8d6..."
+        },
+        {
+          "time": "09:52:45",
+          "side": "Up",
+          "price": 0.56,
+          "size": 50,
+          "tx": "0x87ecd3fa1ac507..."
+        },
+        {
+          "time": "09:53:09",
+          "side": "Down",
+          "price": 0.49,
+          "size": 50,
+          "tx": "0xe89dea0f8fae1f..."
+        },
+        {
+          "time": "09:53:11",
+          "side": "Down",
+          "price": 0.52,
+          "size": 42,
+          "tx": "0xe473ba96ff3ee4..."
+        },
+        {
+          "time": "09:53:15",
+          "side": "Down",
+          "price": 0.56,
+          "size": 50,
+          "tx": "0xff5b56c9586524..."
+        },
+        {
+          "time": "09:53:33",
+          "side": "Up",
+          "price": 0.42,
+          "size": 5,
+          "tx": "0x9104be3faa0cb0..."
+        },
+        {
+          "time": "09:53:35",
+          "side": "Up",
+          "price": 0.46,
+          "size": 50,
+          "tx": "0xdc77b3e81029c4..."
+        },
+        {
+          "time": "09:53:49",
+          "side": "Up",
+          "price": 0.49,
+          "size": 50,
+          "tx": "0x93230adc5b41b6..."
+        },
+        {
+          "time": "09:53:53",
+          "side": "Down",
+          "price": 0.45,
+          "size": 50,
+          "tx": "0x28c11a3b25eb29..."
+        },
+        {
+          "time": "09:53:57",
+          "side": "Down",
+          "price": 0.51,
+          "size": 50,
+          "tx": "0x1d88a7405b0dbe..."
+        },
+        {
+          "time": "09:54:03",
+          "side": "Up",
+          "price": 0.47,
+          "size": 50,
+          "tx": "0x66fb72c1d7031d..."
+        },
+        {
+          "time": "09:54:07",
+          "side": "Down",
+          "price": 0.5588,
+          "size": 50,
+          "tx": "0xf5a2f33e400c48..."
+        },
+        {
+          "time": "09:54:29",
+          "side": "Up",
+          "price": 0.42,
+          "size": 10,
+          "tx": "0xa73bdca3502675..."
+        },
+        {
+          "time": "09:54:35",
+          "side": "Up",
+          "price": 0.5,
+          "size": 50,
+          "tx": "0x400eb3ee41750e..."
+        },
+        {
+          "time": "09:54:51",
+          "side": "Down",
+          "price": 0.48,
+          "size": 50,
+          "tx": "0x179c67fd0f1605..."
+        },
+        {
+          "time": "09:55:51",
+          "side": "Down",
+          "price": 0.48,
+          "size": 50,
+          "tx": "0x8a2d60240c8074..."
+        },
+        {
+          "time": "09:55:55",
+          "side": "Down",
+          "price": 0.5,
+          "size": 50,
+          "tx": "0x407cb36aa03ea5..."
+        },
+        {
+          "time": "09:56:49",
+          "side": "Down",
+          "price": 0.67,
+          "size": 50,
+          "tx": "0x18ca2f9c5ca58c..."
+        },
+        {
+          "time": "09:57:05",
+          "side": "Down",
+          "price": 0.67,
+          "size": 50,
+          "tx": "0xbb371c6dfe590e..."
+        },
+        {
+          "time": "09:57:17",
+          "side": "Down",
+          "price": 0.69,
+          "size": 50,
+          "tx": "0xbc385666912c74..."
+        },
+        {
+          "time": "09:57:25",
+          "side": "Up",
+          "price": 0.33,
+          "size": 50,
+          "tx": "0x6cfa5b1c8409c5..."
+        }
+      ]
+    },
+    {
+      "market": "Bitcoin Up or Down - December 17, 5:45AM-6:00AM ET",
+      "summary": {
+        "total_trades": 40,
+        "duration_seconds": 458,
+        "first_trade_utc": "10:47:28",
+        "last_trade_utc": "10:55:06",
+        "up": {
+          "trades": 22,
+          "shares": 1041,
+          "cost": 527.09,
+          "avg_price": 0.506
+        },
+        "down": {
+          "trades": 18,
+          "shares": 678,
+          "cost": 303.09,
+          "avg_price": 0.447
+        },
+        "total_invested": 830.18,
+        "pnl_if_up_wins": 211.61,
+        "pnl_if_down_wins": -152.18
+      },
+      "trades": [
+        {
+          "time": "10:47:28",
+          "side": "Up",
+          "price": 0.72,
+          "size": 50,
+          "tx": "0xdae3e1dea4978f..."
+        },
+        {
+          "time": "10:47:30",
+          "side": "Up",
+          "price": 0.75,
+          "size": 50,
+          "tx": "0x43197ee98bdf86..."
+        },
+        {
+          "time": "10:47:34",
+          "side": "Up",
+          "price": 0.7556,
+          "size": 50,
+          "tx": "0x75ddaa5d03b289..."
+        },
+        {
+          "time": "10:47:36",
+          "side": "Up",
+          "price": 0.73,
+          "size": 50,
+          "tx": "0x2a8c90fd025341..."
+        },
+        {
+          "time": "10:47:38",
+          "side": "Up",
+          "price": 0.73,
+          "size": 50,
+          "tx": "0xcea3b153b48576..."
+        },
+        {
+          "time": "10:47:46",
+          "side": "Up",
+          "price": 0.7,
+          "size": 50,
+          "tx": "0x0c164188716401..."
+        },
+        {
+          "time": "10:47:50",
+          "side": "Up",
+          "price": 0.6952,
+          "size": 50,
+          "tx": "0x8e20dc54880d45..."
+        },
+        {
+          "time": "10:47:54",
+          "side": "Up",
+          "price": 0.69,
+          "size": 50,
+          "tx": "0x998be309c7e96e..."
+        },
+        {
+          "time": "10:48:04",
+          "side": "Up",
+          "price": 0.68,
+          "size": 50,
+          "tx": "0x28d9c99fc67044..."
+        },
+        {
+          "time": "10:48:12",
+          "side": "Up",
+          "price": 0.72,
+          "size": 50,
+          "tx": "0xba68a278e202f4..."
+        },
+        {
+          "time": "10:48:40",
+          "side": "Down",
+          "price": 0.26,
+          "size": 5,
+          "tx": "0x8b751e9a93e5a0..."
+        },
+        {
+          "time": "10:48:50",
+          "side": "Up",
+          "price": 0.72,
+          "size": 50,
+          "tx": "0xd72fdd13b1f022..."
+        },
+        {
+          "time": "10:48:58",
+          "side": "Up",
+          "price": 0.74,
+          "size": 5,
+          "tx": "0xcf959858c9de38..."
+        },
+        {
+          "time": "10:49:10",
+          "side": "Down",
+          "price": 0.31,
+          "size": 50,
+          "tx": "0x7718566452a02c..."
+        },
+        {
+          "time": "10:49:20",
+          "side": "Down",
+          "price": 0.33,
+          "size": 50,
+          "tx": "0x529c1adb4a11b9..."
+        },
+        {
+          "time": "10:49:22",
+          "side": "Down",
+          "price": 0.37,
+          "size": 50,
+          "tx": "0x234b184e66852e..."
+        },
+        {
+          "time": "10:49:26",
+          "side": "Down",
+          "price": 0.39,
+          "size": 50,
+          "tx": "0xc9cff2394a782f..."
+        },
+        {
+          "time": "10:49:32",
+          "side": "Down",
+          "price": 0.44,
+          "size": 50,
+          "tx": "0xbdbd8f3b40309f..."
+        },
+        {
+          "time": "10:49:32",
+          "side": "Down",
+          "price": 0.418,
+          "size": 50,
+          "tx": "0xbd8c29310bf061..."
+        },
+        {
+          "time": "10:49:46",
+          "side": "Down",
+          "price": 0.34,
+          "size": 50,
+          "tx": "0xdade8bf0233d3c..."
+        },
+        {
+          "time": "10:49:46",
+          "side": "Down",
+          "price": 0.38,
+          "size": 50,
+          "tx": "0x453b3c91993b0b..."
+        },
+        {
+          "time": "10:49:50",
+          "side": "Down",
+          "price": 0.39,
+          "size": 9,
+          "tx": "0x80ec4c0eacb604..."
+        },
+        {
+          "time": "10:50:08",
+          "side": "Down",
+          "price": 0.44,
+          "size": 5,
+          "tx": "0xe4a5ea2aa1560c..."
+        },
+        {
+          "time": "10:50:16",
+          "side": "Down",
+          "price": 0.468,
+          "size": 50,
+          "tx": "0x33be0fd09ca2ba..."
+        },
+        {
+          "time": "10:50:18",
+          "side": "Down",
+          "price": 0.48,
+          "size": 50,
+          "tx": "0x9c9eb831d951b7..."
+        },
+        {
+          "time": "10:50:22",
+          "side": "Down",
+          "price": 0.48,
+          "size": 25,
+          "tx": "0x68a12e65edd759..."
+        },
+        {
+          "time": "10:50:40",
+          "side": "Up",
+          "price": 0.44,
+          "size": 50,
+          "tx": "0xcd2d05268f330a..."
+        },
+        {
+          "time": "10:50:44",
+          "side": "Up",
+          "price": 0.46,
+          "size": 42,
+          "tx": "0xecc93ab6a59d6a..."
+        },
+        {
+          "time": "10:51:06",
+          "side": "Up",
+          "price": 0.32,
+          "size": 50,
+          "tx": "0x582626d05b6721..."
+        },
+        {
+          "time": "10:51:26",
+          "side": "Up",
+          "price": 0.33,
+          "size": 50,
+          "tx": "0x80426f9525de7c..."
+        },
+        {
+          "time": "10:51:26",
+          "side": "Up",
+          "price": 0.39,
+          "size": 43,
+          "tx": "0x2f927815a2bb2e..."
+        },
+        {
+          "time": "10:51:36",
+          "side": "Down",
+          "price": 0.63,
+          "size": 50,
+          "tx": "0xbd2282b36d0908..."
+        },
+        {
+          "time": "10:51:50",
+          "side": "Down",
+          "price": 0.65,
+          "size": 50,
+          "tx": "0xd84758f2a5796e..."
+        },
+        {
+          "time": "10:52:10",
+          "side": "Down",
+          "price": 0.65,
+          "size": 20,
+          "tx": "0x0bcc8325b91695..."
+        },
+        {
+          "time": "10:53:08",
+          "side": "Up",
+          "price": 0.26,
+          "size": 50,
+          "tx": "0x35502f2a8c0975..."
+        },
+        {
+          "time": "10:53:34",
+          "side": "Up",
+          "price": 0.24,
+          "size": 50,
+          "tx": "0xaecf6cea997a69..."
+        },
+        {
+          "time": "10:53:36",
+          "side": "Down",
+          "price": 0.77,
+          "size": 14,
+          "tx": "0x5d81e0851d8689..."
+        },
+        {
+          "time": "10:54:34",
+          "side": "Up",
+          "price": 0.11,
+          "size": 50,
+          "tx": "0x9f030fccbe71c2..."
+        },
+        {
+          "time": "10:54:44",
+          "side": "Up",
+          "price": 0.08,
+          "size": 50,
+          "tx": "0x55ba708ec6df94..."
+        },
+        {
+          "time": "10:55:06",
+          "side": "Up",
+          "price": 0.06,
+          "size": 50,
+          "tx": "0x33c9d473d7335e..."
+        }
+      ]
+    },
+    {
+      "market": "Bitcoin Up or Down - December 17, 6:00AM-6:15AM ET",
+      "summary": {
+        "total_trades": 54,
+        "duration_seconds": 618,
+        "first_trade_utc": "11:00:14",
+        "last_trade_utc": "11:10:32",
+        "up": {
+          "trades": 22,
+          "shares": 881,
+          "cost": 451.68,
+          "avg_price": 0.513
+        },
+        "down": {
+          "trades": 32,
+          "shares": 1438,
+          "cost": 472.38,
+          "avg_price": 0.328
+        },
+        "total_invested": 924.06,
+        "pnl_if_up_wins": -42.76,
+        "pnl_if_down_wins": 514.9
+      },
+      "trades": [
+        {
+          "time": "11:00:14",
+          "side": "Up",
+          "price": 0.51,
+          "size": 50,
+          "tx": "0x84d11c9ddbf2ee..."
+        },
+        {
+          "time": "11:00:14",
+          "side": "Up",
+          "price": 0.52,
+          "size": 50,
+          "tx": "0x5ce7e0e7469ae0..."
+        },
+        {
+          "time": "11:00:46",
+          "side": "Down",
+          "price": 0.43,
+          "size": 50,
+          "tx": "0x2149aa6489d049..."
+        },
+        {
+          "time": "11:01:22",
+          "side": "Up",
+          "price": 0.52,
+          "size": 50,
+          "tx": "0x5f21a9e9e68469..."
+        },
+        {
+          "time": "11:01:22",
+          "side": "Up",
+          "price": 0.5625,
+          "size": 20,
+          "tx": "0x488ed65da987ce..."
+        },
+        {
+          "time": "11:01:40",
+          "side": "Down",
+          "price": 0.407,
+          "size": 50,
+          "tx": "0x2d3f778977fa35..."
+        },
+        {
+          "time": "11:02:20",
+          "side": "Up",
+          "price": 0.6348,
+          "size": 50,
+          "tx": "0xa1ddb94e0533fe..."
+        },
+        {
+          "time": "11:02:20",
+          "side": "Down",
+          "price": 0.41,
+          "size": 50,
+          "tx": "0xd6cf72b89e2fec..."
+        },
+        {
+          "time": "11:02:34",
+          "side": "Down",
+          "price": 0.38,
+          "size": 50,
+          "tx": "0x99938ecb0d4c9e..."
+        },
+        {
+          "time": "11:02:50",
+          "side": "Up",
+          "price": 0.43,
+          "size": 50,
+          "tx": "0x48cdd32abc70bc..."
+        },
+        {
+          "time": "11:02:56",
+          "side": "Up",
+          "price": 0.43,
+          "size": 50,
+          "tx": "0xa76c0662931d37..."
+        },
+        {
+          "time": "11:03:08",
+          "side": "Down",
+          "price": 0.6,
+          "size": 40,
+          "tx": "0x6209d86d6c0b8e..."
+        },
+        {
+          "time": "11:03:36",
+          "side": "Up",
+          "price": 0.3,
+          "size": 50,
+          "tx": "0x454b8eedecbb5c..."
+        },
+        {
+          "time": "11:03:36",
+          "side": "Up",
+          "price": 0.38,
+          "size": 50,
+          "tx": "0x623f9dd6e8d94d..."
+        },
+        {
+          "time": "11:03:36",
+          "side": "Up",
+          "price": 0.33,
+          "size": 50,
+          "tx": "0xe858ec6faf087e..."
+        },
+        {
+          "time": "11:03:36",
+          "side": "Up",
+          "price": 0.35675535366645034,
+          "size": 30,
+          "tx": "0x17b9d9d21d0725..."
+        },
+        {
+          "time": "11:03:38",
+          "side": "Up",
+          "price": 0.39,
+          "size": 10,
+          "tx": "0xc1fff6e77b8c78..."
+        },
+        {
+          "time": "11:03:50",
+          "side": "Down",
+          "price": 0.59,
+          "size": 50,
+          "tx": "0xf8922adb589d16..."
+        },
+        {
+          "time": "11:04:06",
+          "side": "Down",
+          "price": 0.62,
+          "size": 50,
+          "tx": "0x256fc78d391b88..."
+        },
+        {
+          "time": "11:04:06",
+          "side": "Down",
+          "price": 0.58,
+          "size": 30,
+          "tx": "0x3fb9880c7a7aa7..."
+        },
+        {
+          "time": "11:04:08",
+          "side": "Down",
+          "price": 0.64,
+          "size": 50,
+          "tx": "0x9f64f4619e18ed..."
+        },
+        {
+          "time": "11:04:10",
+          "side": "Up",
+          "price": 0.4022,
+          "size": 50,
+          "tx": "0x6c18c47e228ddf..."
+        },
+        {
+          "time": "11:04:10",
+          "side": "Up",
+          "price": 0.3858333333333333,
+          "size": 12,
+          "tx": "0xc3fe2cae23a4a6..."
+        },
+        {
+          "time": "11:04:54",
+          "side": "Down",
+          "price": 0.61,
+          "size": 45,
+          "tx": "0x7c372d241e3638..."
+        },
+        {
+          "time": "11:05:16",
+          "side": "Down",
+          "price": 0.48,
+          "size": 50,
+          "tx": "0x96c7d3e38bdfa4..."
+        },
+        {
+          "time": "11:05:18",
+          "side": "Down",
+          "price": 0.51,
+          "size": 18,
+          "tx": "0x660da5bdfe39f5..."
+        },
+        {
+          "time": "11:05:30",
+          "side": "Up",
+          "price": 0.484628,
+          "size": 50,
+          "tx": "0xb10915170fd558..."
+        },
+        {
+          "time": "11:05:30",
+          "side": "Up",
+          "price": 0.51,
+          "size": 50,
+          "tx": "0x32e3db80a1d07f..."
+        },
+        {
+          "time": "11:05:54",
+          "side": "Down",
+          "price": 0.34,
+          "size": 50,
+          "tx": "0xa3e4f34b4b73b9..."
+        },
+        {
+          "time": "11:05:54",
+          "side": "Down",
+          "price": 0.37,
+          "size": 50,
+          "tx": "0x8000783a50c83a..."
+        },
+        {
+          "time": "11:05:58",
+          "side": "Down",
+          "price": 0.39,
+          "size": 50,
+          "tx": "0x85081c0a8ae71b..."
+        },
+        {
+          "time": "11:06:06",
+          "side": "Down",
+          "price": 0.41,
+          "size": 31,
+          "tx": "0x4dcf0f9df2d918..."
+        },
+        {
+          "time": "11:06:28",
+          "side": "Down",
+          "price": 0.31,
+          "size": 50,
+          "tx": "0x90409d38932a70..."
+        },
+        {
+          "time": "11:06:38",
+          "side": "Down",
+          "price": 0.32,
+          "size": 36,
+          "tx": "0xf4b2cdd0c55cf5..."
+        },
+        {
+          "time": "11:06:48",
+          "side": "Up",
+          "price": 0.69,
+          "size": 6,
+          "tx": "0xc95e64aad5398e..."
+        },
+        {
+          "time": "11:06:52",
+          "side": "Down",
+          "price": 0.27,
+          "size": 50,
+          "tx": "0xeb949708fedd6a..."
+        },
+        {
+          "time": "11:06:52",
+          "side": "Up",
+          "price": 0.75,
+          "size": 50,
+          "tx": "0x29822b74437cdd..."
+        },
+        {
+          "time": "11:07:06",
+          "side": "Down",
+          "price": 0.3,
+          "size": 50,
+          "tx": "0xec7fd80d16c68e..."
+        },
+        {
+          "time": "11:07:10",
+          "side": "Down",
+          "price": 0.32,
+          "size": 31,
+          "tx": "0xb0479ac9642ecb..."
+        },
+        {
+          "time": "11:07:12",
+          "side": "Up",
+          "price": 0.72,
+          "size": 50,
+          "tx": "0x9f1ae8e0941c71..."
+        },
+        {
+          "time": "11:07:40",
+          "side": "Up",
+          "price": 0.65,
+          "size": 50,
+          "tx": "0x23f014b791bace..."
+        },
+        {
+          "time": "11:08:04",
+          "side": "Up",
+          "price": 0.68,
+          "size": 27,
+          "tx": "0x9537d5bb28d067..."
+        },
+        {
+          "time": "11:08:20",
+          "side": "Down",
+          "price": 0.27,
+          "size": 50,
+          "tx": "0x529ac0eb0d5a27..."
+        },
+        {
+          "time": "11:08:22",
+          "side": "Down",
+          "price": 0.29,
+          "size": 50,
+          "tx": "0x13d1e106b4b34a..."
+        },
+        {
+          "time": "11:08:50",
+          "side": "Up",
+          "price": 0.78,
+          "size": 24,
+          "tx": "0xf38ade6dd728b1..."
+        },
+        {
+          "time": "11:09:02",
+          "side": "Down",
+          "price": 0.24,
+          "size": 6,
+          "tx": "0x26880b178ce363..."
+        },
+        {
+          "time": "11:10:14",
+          "side": "Down",
+          "price": 0.05,
+          "size": 50,
+          "tx": "0x5fbc26722bb9ae..."
+        },
+        {
+          "time": "11:10:16",
+          "side": "Down",
+          "price": 0.08,
+          "size": 50,
+          "tx": "0xb7c5fdc6004191..."
+        },
+        {
+          "time": "11:10:18",
+          "side": "Down",
+          "price": 0.085756,
+          "size": 50,
+          "tx": "0xfcc38e919f6774..."
+        },
+        {
+          "time": "11:10:18",
+          "side": "Down",
+          "price": 0.09,
+          "size": 50,
+          "tx": "0x1afdfb8407f4e9..."
+        },
+        {
+          "time": "11:10:20",
+          "side": "Down",
+          "price": 0.096556,
+          "size": 50,
+          "tx": "0xd5adcfd8dd239c..."
+        },
+        {
+          "time": "11:10:20",
+          "side": "Down",
+          "price": 0.11,
+          "size": 50,
+          "tx": "0x2587734723a85d..."
+        },
+        {
+          "time": "11:10:30",
+          "side": "Down",
+          "price": 0.079,
+          "size": 50,
+          "tx": "0xf49c6041ff7569..."
+        },
+        {
+          "time": "11:10:32",
+          "side": "Down",
+          "price": 0.07,
+          "size": 50,
+          "tx": "0x90efb9ee896596..."
+        }
+      ]
+    },
+    {
+      "market": "Bitcoin Up or Down - December 17, 6:15AM-6:30AM ET",
+      "summary": {
+        "total_trades": 89,
+        "duration_seconds": 806,
+        "first_trade_utc": "11:15:08",
+        "last_trade_utc": "11:28:34",
+        "up": {
+          "trades": 57,
+          "shares": 2419,
+          "cost": 917.04,
+          "avg_price": 0.379
+        },
+        "down": {
+          "trades": 32,
+          "shares": 1415,
+          "cost": 731.08,
+          "avg_price": 0.517
+        },
+        "total_invested": 1648.12,
+        "pnl_if_up_wins": 771.66,
+        "pnl_if_down_wins": -233.12
+      },
+      "trades": [
+        {
+          "time": "11:15:08",
+          "side": "Up",
+          "price": 0.477,
+          "size": 50,
+          "tx": "0xc68de7b11f9cb1..."
+        },
+        {
+          "time": "11:15:10",
+          "side": "Up",
+          "price": 0.5,
+          "size": 50,
+          "tx": "0x2833b3965e6ecb..."
+        },
+        {
+          "time": "11:15:14",
+          "side": "Up",
+          "price": 0.52,
+          "size": 50,
+          "tx": "0xbb7e7aa83567c3..."
+        },
+        {
+          "time": "11:15:26",
+          "side": "Up",
+          "price": 0.58,
+          "size": 5,
+          "tx": "0x73c1d4bdd7aad3..."
+        },
+        {
+          "time": "11:15:26",
+          "side": "Up",
+          "price": 0.6,
+          "size": 50,
+          "tx": "0x818683eaaea18f..."
+        },
+        {
+          "time": "11:15:30",
+          "side": "Up",
+          "price": 0.61,
+          "size": 50,
+          "tx": "0x796c6b9839830f..."
+        },
+        {
+          "time": "11:15:40",
+          "side": "Down",
+          "price": 0.39,
+          "size": 50,
+          "tx": "0x294c135498ba05..."
+        },
+        {
+          "time": "11:15:46",
+          "side": "Down",
+          "price": 0.41,
+          "size": 6,
+          "tx": "0x89f13fdf6205c0..."
+        },
+        {
+          "time": "11:16:10",
+          "side": "Down",
+          "price": 0.45,
+          "size": 50,
+          "tx": "0xb0434001a8cd76..."
+        },
+        {
+          "time": "11:16:12",
+          "side": "Down",
+          "price": 0.49,
+          "size": 50,
+          "tx": "0xca51ed9452e182..."
+        },
+        {
+          "time": "11:16:20",
+          "side": "Up",
+          "price": 0.55,
+          "size": 15,
+          "tx": "0x5ad0efc61dabf3..."
+        },
+        {
+          "time": "11:16:22",
+          "side": "Up",
+          "price": 0.59,
+          "size": 50,
+          "tx": "0xedf6e412a7ba8f..."
+        },
+        {
+          "time": "11:16:32",
+          "side": "Down",
+          "price": 0.45,
+          "size": 50,
+          "tx": "0x9e3070a85bcd5d..."
+        },
+        {
+          "time": "11:16:32",
+          "side": "Up",
+          "price": 0.56,
+          "size": 50,
+          "tx": "0x383f5c8cb33a7c..."
+        },
+        {
+          "time": "11:16:44",
+          "side": "Up",
+          "price": 0.59,
+          "size": 50,
+          "tx": "0x92eb6654c5488c..."
+        },
+        {
+          "time": "11:17:02",
+          "side": "Down",
+          "price": 0.53,
+          "size": 50,
+          "tx": "0xf48fc4f7205a3d..."
+        },
+        {
+          "time": "11:17:08",
+          "side": "Up",
+          "price": 0.53,
+          "size": 50,
+          "tx": "0x2b221b12e5dcaf..."
+        },
+        {
+          "time": "11:17:08",
+          "side": "Up",
+          "price": 0.45,
+          "size": 20,
+          "tx": "0xb1eb89277113d9..."
+        },
+        {
+          "time": "11:17:08",
+          "side": "Up",
+          "price": 0.47,
+          "size": 5,
+          "tx": "0x2ea12369bc3350..."
+        },
+        {
+          "time": "11:17:12",
+          "side": "Down",
+          "price": 0.49,
+          "size": 50,
+          "tx": "0xdaa8ce744be0c1..."
+        },
+        {
+          "time": "11:17:16",
+          "side": "Up",
+          "price": 0.45,
+          "size": 50,
+          "tx": "0xc6e7a0100d5d31..."
+        },
+        {
+          "time": "11:17:16",
+          "side": "Down",
+          "price": 0.54,
+          "size": 50,
+          "tx": "0xda7844955019ba..."
+        },
+        {
+          "time": "11:17:30",
+          "side": "Down",
+          "price": 0.5147368421052632,
+          "size": 19,
+          "tx": "0xfc86d2bc23e408..."
+        },
+        {
+          "time": "11:17:38",
+          "side": "Up",
+          "price": 0.55,
+          "size": 50,
+          "tx": "0x15844c62e78a91..."
+        },
+        {
+          "time": "11:17:40",
+          "side": "Up",
+          "price": 0.5504875962360992,
+          "size": 11,
+          "tx": "0x51b4b6e6550970..."
+        },
+        {
+          "time": "11:17:40",
+          "side": "Up",
+          "price": 0.525686,
+          "size": 50,
+          "tx": "0x37e41a90751c53..."
+        },
+        {
+          "time": "11:17:50",
+          "side": "Down",
+          "price": 0.43,
+          "size": 50,
+          "tx": "0xc59f785032accc..."
+        },
+        {
+          "time": "11:17:52",
+          "side": "Down",
+          "price": 0.444464,
+          "size": 50,
+          "tx": "0x83c7e6259d2c6a..."
+        },
+        {
+          "time": "11:17:52",
+          "side": "Down",
+          "price": 0.49,
+          "size": 50,
+          "tx": "0x87016a7f59c1e8..."
+        },
+        {
+          "time": "11:17:52",
+          "side": "Down",
+          "price": 0.46,
+          "size": 50,
+          "tx": "0x67ef65f064d0c8..."
+        },
+        {
+          "time": "11:18:00",
+          "side": "Up",
+          "price": 0.55,
+          "size": 50,
+          "tx": "0xc6dc348ecd1d18..."
+        },
+        {
+          "time": "11:18:06",
+          "side": "Down",
+          "price": 0.44,
+          "size": 50,
+          "tx": "0xdf232196bb8089..."
+        },
+        {
+          "time": "11:18:08",
+          "side": "Down",
+          "price": 0.467232,
+          "size": 50,
+          "tx": "0xa8e90506f51de4..."
+        },
+        {
+          "time": "11:18:12",
+          "side": "Down",
+          "price": 0.494534,
+          "size": 50,
+          "tx": "0x185d87b371dd13..."
+        },
+        {
+          "time": "11:18:14",
+          "side": "Up",
+          "price": 0.52,
+          "size": 50,
+          "tx": "0x225400946cd532..."
+        },
+        {
+          "time": "11:18:16",
+          "side": "Up",
+          "price": 0.57,
+          "size": 10,
+          "tx": "0xfc27fea6e825f6..."
+        },
+        {
+          "time": "11:18:18",
+          "side": "Up",
+          "price": 0.59,
+          "size": 50,
+          "tx": "0x04b59892dac4ce..."
+        },
+        {
+          "time": "11:18:26",
+          "side": "Up",
+          "price": 0.61,
+          "size": 50,
+          "tx": "0x1f19295f9c3e37..."
+        },
+        {
+          "time": "11:18:26",
+          "side": "Down",
+          "price": 0.41,
+          "size": 50,
+          "tx": "0x39edc7d4f556a1..."
+        },
+        {
+          "time": "11:18:42",
+          "side": "Down",
+          "price": 0.4,
+          "size": 50,
+          "tx": "0x2125af3de7d4c4..."
+        },
+        {
+          "time": "11:18:46",
+          "side": "Down",
+          "price": 0.42,
+          "size": 50,
+          "tx": "0xc4a4c09942be56..."
+        },
+        {
+          "time": "11:18:54",
+          "side": "Up",
+          "price": 0.6,
+          "size": 50,
+          "tx": "0x94a9209e7651d7..."
+        },
+        {
+          "time": "11:19:08",
+          "side": "Down",
+          "price": 0.42,
+          "size": 50,
+          "tx": "0xeaade900f0b977..."
+        },
+        {
+          "time": "11:19:10",
+          "side": "Down",
+          "price": 0.455,
+          "size": 50,
+          "tx": "0x44d93389f874b8..."
+        },
+        {
+          "time": "11:19:12",
+          "side": "Down",
+          "price": 0.43,
+          "size": 50,
+          "tx": "0xbd78118dee295c..."
+        },
+        {
+          "time": "11:19:12",
+          "side": "Down",
+          "price": 0.46,
+          "size": 50,
+          "tx": "0x0ea3684fe6fde7..."
+        },
+        {
+          "time": "11:19:18",
+          "side": "Down",
+          "price": 0.5,
+          "size": 30,
+          "tx": "0x3ec08ce5da8c2a..."
+        },
+        {
+          "time": "11:19:22",
+          "side": "Up",
+          "price": 0.53,
+          "size": 50,
+          "tx": "0xf405d48222d1bb..."
+        },
+        {
+          "time": "11:19:40",
+          "side": "Up",
+          "price": 0.44,
+          "size": 50,
+          "tx": "0xfbf597f159d6b4..."
+        },
+        {
+          "time": "11:19:52",
+          "side": "Up",
+          "price": 0.28,
+          "size": 50,
+          "tx": "0xd7347c0a5007bf..."
+        },
+        {
+          "time": "11:19:56",
+          "side": "Up",
+          "price": 0.26,
+          "size": 50,
+          "tx": "0x90f5c7d5192017..."
+        },
+        {
+          "time": "11:19:56",
+          "side": "Up",
+          "price": 0.26,
+          "size": 50,
+          "tx": "0x5f367588174aa5..."
+        },
+        {
+          "time": "11:20:06",
+          "side": "Up",
+          "price": 0.28,
+          "size": 50,
+          "tx": "0x603257cf26f564..."
+        },
+        {
+          "time": "11:20:10",
+          "side": "Up",
+          "price": 0.30052,
+          "size": 50,
+          "tx": "0x3ffd55826eb51e..."
+        },
+        {
+          "time": "11:20:12",
+          "side": "Up",
+          "price": 0.31,
+          "size": 50,
+          "tx": "0x0b9d65b88b2956..."
+        },
+        {
+          "time": "11:20:14",
+          "side": "Up",
+          "price": 0.33,
+          "size": 50,
+          "tx": "0x8c71c3fb22be50..."
+        },
+        {
+          "time": "11:20:20",
+          "side": "Up",
+          "price": 0.34,
+          "size": 8,
+          "tx": "0x8798331ba185de..."
+        },
+        {
+          "time": "11:20:20",
+          "side": "Up",
+          "price": 0.359,
+          "size": 50,
+          "tx": "0xef53c87741aac9..."
+        },
+        {
+          "time": "11:20:30",
+          "side": "Up",
+          "price": 0.37,
+          "size": 12,
+          "tx": "0x21f1a1064c00d2..."
+        },
+        {
+          "time": "11:21:18",
+          "side": "Up",
+          "price": 0.37,
+          "size": 23,
+          "tx": "0x93bd847202c0b2..."
+        },
+        {
+          "time": "11:22:24",
+          "side": "Up",
+          "price": 0.39,
+          "size": 50,
+          "tx": "0x20f3ef2404b4a7..."
+        },
+        {
+          "time": "11:22:28",
+          "side": "Up",
+          "price": 0.4,
+          "size": 50,
+          "tx": "0x1d0612909b0469..."
+        },
+        {
+          "time": "11:23:00",
+          "side": "Up",
+          "price": 0.38,
+          "size": 5,
+          "tx": "0x517e22964428d3..."
+        },
+        {
+          "time": "11:23:08",
+          "side": "Up",
+          "price": 0.4,
+          "size": 27,
+          "tx": "0xe6b791c66057da..."
+        },
+        {
+          "time": "11:23:18",
+          "side": "Down",
+          "price": 0.66,
+          "size": 50,
+          "tx": "0x2d5032074a835f..."
+        },
+        {
+          "time": "11:23:26",
+          "side": "Up",
+          "price": 0.32,
+          "size": 50,
+          "tx": "0xe58cac1f4a0801..."
+        },
+        {
+          "time": "11:23:38",
+          "side": "Up",
+          "price": 0.268646,
+          "size": 50,
+          "tx": "0xcff0553687c3be..."
+        },
+        {
+          "time": "11:23:38",
+          "side": "Down",
+          "price": 0.74,
+          "size": 50,
+          "tx": "0x754a872e2374bf..."
+        },
+        {
+          "time": "11:23:42",
+          "side": "Up",
+          "price": 0.29,
+          "size": 50,
+          "tx": "0xce3ac36e6d5aa8..."
+        },
+        {
+          "time": "11:24:10",
+          "side": "Down",
+          "price": 0.6604,
+          "size": 50,
+          "tx": "0xe309a69d989750..."
+        },
+        {
+          "time": "11:24:12",
+          "side": "Down",
+          "price": 0.68,
+          "size": 40,
+          "tx": "0xf4ad0fd0098b55..."
+        },
+        {
+          "time": "11:24:42",
+          "side": "Up",
+          "price": 0.25,
+          "size": 50,
+          "tx": "0x2e4c4e365bd906..."
+        },
+        {
+          "time": "11:24:46",
+          "side": "Up",
+          "price": 0.25,
+          "size": 29,
+          "tx": "0x68e855e079d203..."
+        },
+        {
+          "time": "11:24:46",
+          "side": "Up",
+          "price": 0.27,
+          "size": 50,
+          "tx": "0xa6285620936148..."
+        },
+        {
+          "time": "11:24:48",
+          "side": "Down",
+          "price": 0.74,
+          "size": 9,
+          "tx": "0xb5c5bdf9d5c1c1..."
+        },
+        {
+          "time": "11:24:50",
+          "side": "Down",
+          "price": 0.76,
+          "size": 23,
+          "tx": "0x0fbcaa2dd32cbc..."
+        },
+        {
+          "time": "11:24:54",
+          "side": "Down",
+          "price": 0.79,
+          "size": 50,
+          "tx": "0x1d3556eb210d02..."
+        },
+        {
+          "time": "11:25:02",
+          "side": "Up",
+          "price": 0.23,
+          "size": 50,
+          "tx": "0xaa09dfb74a0b10..."
+        },
+        {
+          "time": "11:25:04",
+          "side": "Up",
+          "price": 0.27,
+          "size": 50,
+          "tx": "0x2ffba071955fef..."
+        },
+        {
+          "time": "11:25:22",
+          "side": "Up",
+          "price": 0.25,
+          "size": 50,
+          "tx": "0xb897d4220a471d..."
+        },
+        {
+          "time": "11:25:42",
+          "side": "Up",
+          "price": 0.2,
+          "size": 46,
+          "tx": "0x7c324f6da69534..."
+        },
+        {
+          "time": "11:26:06",
+          "side": "Up",
+          "price": 0.1889,
+          "size": 50,
+          "tx": "0x18ee01aeadbb2d..."
+        },
+        {
+          "time": "11:26:12",
+          "side": "Up",
+          "price": 0.22,
+          "size": 50,
+          "tx": "0x6ca38d39885eba..."
+        },
+        {
+          "time": "11:27:04",
+          "side": "Down",
+          "price": 0.84,
+          "size": 38,
+          "tx": "0x68a364dbf12657..."
+        },
+        {
+          "time": "11:27:20",
+          "side": "Up",
+          "price": 0.18,
+          "size": 50,
+          "tx": "0xf459b46d7e3987..."
+        },
+        {
+          "time": "11:27:42",
+          "side": "Up",
+          "price": 0.15,
+          "size": 50,
+          "tx": "0x1461dd4e469e44..."
+        },
+        {
+          "time": "11:28:18",
+          "side": "Up",
+          "price": 0.07,
+          "size": 50,
+          "tx": "0x5bbab80be8d78b..."
+        },
+        {
+          "time": "11:28:28",
+          "side": "Up",
+          "price": 0.13,
+          "size": 50,
+          "tx": "0x167760434a1ef7..."
+        },
+        {
+          "time": "11:28:34",
+          "side": "Up",
+          "price": 0.13,
+          "size": 50,
+          "tx": "0x11449e8461cce2..."
+        }
+      ]
+    },
+    {
+      "market": "Bitcoin Up or Down - December 17, 6:30AM-6:45AM ET",
+      "summary": {
+        "total_trades": 65,
+        "duration_seconds": 692,
+        "first_trade_utc": "11:30:08",
+        "last_trade_utc": "11:41:40",
+        "up": {
+          "trades": 29,
+          "shares": 1220,
+          "cost": 790.93,
+          "avg_price": 0.648
+        },
+        "down": {
+          "trades": 36,
+          "shares": 1617,
+          "cost": 430.14,
+          "avg_price": 0.266
+        },
+        "total_invested": 1221.08,
+        "pnl_if_up_wins": -0.78,
+        "pnl_if_down_wins": 396.52
+      },
+      "trades": [
+        {
+          "time": "11:30:08",
+          "side": "Down",
+          "price": 0.52,
+          "size": 50,
+          "tx": "0xb39e2bca34e5e3..."
+        },
+        {
+          "time": "11:30:08",
+          "side": "Down",
+          "price": 0.55,
+          "size": 50,
+          "tx": "0xf86912298ad4c2..."
+        },
+        {
+          "time": "11:30:18",
+          "side": "Up",
+          "price": 0.45,
+          "size": 50,
+          "tx": "0x5f79b4141d269f..."
+        },
+        {
+          "time": "11:30:26",
+          "side": "Up",
+          "price": 0.5,
+          "size": 50,
+          "tx": "0xb9097863552db3..."
+        },
+        {
+          "time": "11:30:26",
+          "side": "Up",
+          "price": 0.48,
+          "size": 9,
+          "tx": "0x07ba130d12b767..."
+        },
+        {
+          "time": "11:30:26",
+          "side": "Up",
+          "price": 0.5,
+          "size": 50,
+          "tx": "0xbd558e0c792fea..."
+        },
+        {
+          "time": "11:30:30",
+          "side": "Up",
+          "price": 0.52,
+          "size": 50,
+          "tx": "0x521bd16ee2bdfb..."
+        },
+        {
+          "time": "11:30:34",
+          "side": "Up",
+          "price": 0.54,
+          "size": 50,
+          "tx": "0x46286b1f32f2af..."
+        },
+        {
+          "time": "11:30:36",
+          "side": "Down",
+          "price": 0.5,
+          "size": 33,
+          "tx": "0x6fc7327ca08467..."
+        },
+        {
+          "time": "11:31:00",
+          "side": "Up",
+          "price": 0.53,
+          "size": 50,
+          "tx": "0x3cf9c35c5a603c..."
+        },
+        {
+          "time": "11:31:14",
+          "side": "Down",
+          "price": 0.49,
+          "size": 50,
+          "tx": "0xfe0f6935bda22e..."
+        },
+        {
+          "time": "11:31:46",
+          "side": "Down",
+          "price": 0.41467726847521047,
+          "size": 42,
+          "tx": "0xbb2c435e226638..."
+        },
+        {
+          "time": "11:31:54",
+          "side": "Down",
+          "price": 0.5,
+          "size": 50,
+          "tx": "0x21ebfd7a051e42..."
+        },
+        {
+          "time": "11:32:00",
+          "side": "Up",
+          "price": 0.53,
+          "size": 3,
+          "tx": "0xb88ce366ee46f6..."
+        },
+        {
+          "time": "11:32:26",
+          "side": "Down",
+          "price": 0.496,
+          "size": 50,
+          "tx": "0x36d2b5a41bdaf8..."
+        },
+        {
+          "time": "11:32:32",
+          "side": "Up",
+          "price": 0.52,
+          "size": 40,
+          "tx": "0x306f92e3e26ff1..."
+        },
+        {
+          "time": "11:32:34",
+          "side": "Up",
+          "price": 0.55,
+          "size": 50,
+          "tx": "0xe21a9dd32f7acc..."
+        },
+        {
+          "time": "11:32:44",
+          "side": "Down",
+          "price": 0.43,
+          "size": 50,
+          "tx": "0x94fa247ad15183..."
+        },
+        {
+          "time": "11:33:04",
+          "side": "Up",
+          "price": 0.65,
+          "size": 50,
+          "tx": "0x16f9a4d3b55ebf..."
+        },
+        {
+          "time": "11:33:30",
+          "side": "Down",
+          "price": 0.46,
+          "size": 50,
+          "tx": "0x32e8b8f1b05743..."
+        },
+        {
+          "time": "11:33:52",
+          "side": "Up",
+          "price": 0.48,
+          "size": 50,
+          "tx": "0xc340fd41b967eb..."
+        },
+        {
+          "time": "11:34:08",
+          "side": "Up",
+          "price": 0.49,
+          "size": 50,
+          "tx": "0x4ee70d9bce1bbb..."
+        },
+        {
+          "time": "11:34:34",
+          "side": "Down",
+          "price": 0.31,
+          "size": 50,
+          "tx": "0x28bf6f68d75d3f..."
+        },
+        {
+          "time": "11:34:42",
+          "side": "Down",
+          "price": 0.33,
+          "size": 50,
+          "tx": "0x85f434eedbfea9..."
+        },
+        {
+          "time": "11:34:42",
+          "side": "Down",
+          "price": 0.32,
+          "size": 29,
+          "tx": "0x335b1a0b395733..."
+        },
+        {
+          "time": "11:34:52",
+          "side": "Down",
+          "price": 0.32,
+          "size": 50,
+          "tx": "0x2454859a05fad4..."
+        },
+        {
+          "time": "11:35:00",
+          "side": "Down",
+          "price": 0.3298,
+          "size": 50,
+          "tx": "0x8b9315f4c01390..."
+        },
+        {
+          "time": "11:35:12",
+          "side": "Up",
+          "price": 0.61,
+          "size": 5,
+          "tx": "0xbdcddceb6a3679..."
+        },
+        {
+          "time": "11:35:48",
+          "side": "Up",
+          "price": 0.66,
+          "size": 50,
+          "tx": "0x513df767ab995f..."
+        },
+        {
+          "time": "11:36:10",
+          "side": "Down",
+          "price": 0.33,
+          "size": 50,
+          "tx": "0x54b34a6ac8ef40..."
+        },
+        {
+          "time": "11:36:10",
+          "side": "Down",
+          "price": 0.35,
+          "size": 50,
+          "tx": "0x9a5d620e24860d..."
+        },
+        {
+          "time": "11:36:12",
+          "side": "Down",
+          "price": 0.36,
+          "size": 50,
+          "tx": "0xb01f8d2a44dc5b..."
+        },
+        {
+          "time": "11:36:38",
+          "side": "Up",
+          "price": 0.67,
+          "size": 15,
+          "tx": "0x33e91aa4edb937..."
+        },
+        {
+          "time": "11:36:38",
+          "side": "Up",
+          "price": 0.69,
+          "size": 50,
+          "tx": "0x17dbf2195a9ab2..."
+        },
+        {
+          "time": "11:36:40",
+          "side": "Up",
+          "price": 0.73,
+          "size": 50,
+          "tx": "0xe0252197f75ebd..."
+        },
+        {
+          "time": "11:36:44",
+          "side": "Up",
+          "price": 0.75,
+          "size": 50,
+          "tx": "0xc5ac2599347e55..."
+        },
+        {
+          "time": "11:36:50",
+          "side": "Up",
+          "price": 0.75,
+          "size": 50,
+          "tx": "0x3efe0f26116ef2..."
+        },
+        {
+          "time": "11:36:52",
+          "side": "Up",
+          "price": 0.77,
+          "size": 10,
+          "tx": "0x293394dddc277a..."
+        },
+        {
+          "time": "11:36:52",
+          "side": "Up",
+          "price": 0.76,
+          "size": 50,
+          "tx": "0x8a746eae9d7b48..."
+        },
+        {
+          "time": "11:36:54",
+          "side": "Up",
+          "price": 0.8,
+          "size": 50,
+          "tx": "0x92a12054a03441..."
+        },
+        {
+          "time": "11:37:06",
+          "side": "Down",
+          "price": 0.19,
+          "size": 50,
+          "tx": "0x1db99d8b7b86dd..."
+        },
+        {
+          "time": "11:37:06",
+          "side": "Down",
+          "price": 0.2,
+          "size": 26,
+          "tx": "0x6ee17886291156..."
+        },
+        {
+          "time": "11:37:08",
+          "side": "Down",
+          "price": 0.22651162790697674,
+          "size": 43,
+          "tx": "0xb0bf606047419e..."
+        },
+        {
+          "time": "11:37:14",
+          "side": "Up",
+          "price": 0.75,
+          "size": 50,
+          "tx": "0x7c6064f17d1b31..."
+        },
+        {
+          "time": "11:37:16",
+          "side": "Up",
+          "price": 0.76,
+          "size": 50,
+          "tx": "0x17c90bb99fb6e9..."
+        },
+        {
+          "time": "11:37:16",
+          "side": "Up",
+          "price": 0.77,
+          "size": 50,
+          "tx": "0xd075567e5aad29..."
+        },
+        {
+          "time": "11:37:26",
+          "side": "Up",
+          "price": 0.8,
+          "size": 44,
+          "tx": "0x51a2bbaf02f675..."
+        },
+        {
+          "time": "11:37:28",
+          "side": "Down",
+          "price": 0.2,
+          "size": 50,
+          "tx": "0xd5b3b3cdb38d77..."
+        },
+        {
+          "time": "11:37:42",
+          "side": "Down",
+          "price": 0.22,
+          "size": 50,
+          "tx": "0x9ed112679e0ed6..."
+        },
+        {
+          "time": "11:37:52",
+          "side": "Up",
+          "price": 0.8,
+          "size": 50,
+          "tx": "0xe3fa5529e0cbfc..."
+        },
+        {
+          "time": "11:38:12",
+          "side": "Down",
+          "price": 0.221386,
+          "size": 50,
+          "tx": "0x1e9a6c271943f2..."
+        },
+        {
+          "time": "11:38:12",
+          "side": "Down",
+          "price": 0.21,
+          "size": 50,
+          "tx": "0x181c1ca14ef5ee..."
+        },
+        {
+          "time": "11:38:44",
+          "side": "Down",
+          "price": 0.11,
+          "size": 50,
+          "tx": "0x9f11a7e894630d..."
+        },
+        {
+          "time": "11:38:48",
+          "side": "Down",
+          "price": 0.11,
+          "size": 2,
+          "tx": "0xa29d1bc1dc615f..."
+        },
+        {
+          "time": "11:38:48",
+          "side": "Down",
+          "price": 0.15,
+          "size": 30,
+          "tx": "0x2ff1ea843e6cae..."
+        },
+        {
+          "time": "11:38:56",
+          "side": "Up",
+          "price": 0.83,
+          "size": 43,
+          "tx": "0x40a300b1b9cc29..."
+        },
+        {
+          "time": "11:39:40",
+          "side": "Down",
+          "price": 0.04,
+          "size": 50,
+          "tx": "0x729028ff7d9a3b..."
+        },
+        {
+          "time": "11:39:46",
+          "side": "Down",
+          "price": 0.05,
+          "size": 50,
+          "tx": "0x14fb9d1f35de40..."
+        },
+        {
+          "time": "11:39:48",
+          "side": "Down",
+          "price": 0.05,
+          "size": 50,
+          "tx": "0x155354c9b30d0c..."
+        },
+        {
+          "time": "11:40:12",
+          "side": "Down",
+          "price": 0.04,
+          "size": 50,
+          "tx": "0xc5b1a12a3bcfe1..."
+        },
+        {
+          "time": "11:40:18",
+          "side": "Down",
+          "price": 0.04,
+          "size": 50,
+          "tx": "0xc4783c84acb580..."
+        },
+        {
+          "time": "11:40:36",
+          "side": "Down",
+          "price": 0.07,
+          "size": 10,
+          "tx": "0x7391cbb2949059..."
+        },
+        {
+          "time": "11:40:42",
+          "side": "Down",
+          "price": 0.08,
+          "size": 50,
+          "tx": "0x77d6307f5b98b0..."
+        },
+        {
+          "time": "11:41:40",
+          "side": "Down",
+          "price": 0.04,
+          "size": 50,
+          "tx": "0xa39f8aaa18cdf1..."
+        },
+        {
+          "time": "11:41:40",
+          "side": "Down",
+          "price": 0.05,
+          "size": 50,
+          "tx": "0xbf54027b49a3ea..."
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "total_invested": 6756.12,
+    "pnl_if_all_up_win": 658.12,
+    "pnl_if_all_down_win": 958.49
+  }
+}
