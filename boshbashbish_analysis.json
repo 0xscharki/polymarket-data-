@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "username": "BoshBashBish",
+    "wallet_address": "0x29bc82f761749e67fa00d62896bc6855097b683c",
+    "analyzed_at": "2025-12-17 08:19:39"
+  },
+  "analysis": {
+    "summary": {
+      "total_trades": 1300,
+      "total_buy_trades": 1037,
+      "total_sell_trades": 263,
+      "total_volume_usd": 122589.11,
+      "avg_trade_size": 328.21,
+      "avg_price": 0.5855,
+      "unique_markets": 307,
+      "first_trade": "2025-12-17 08:05:04",
+      "last_trade": "2025-12-17 08:07:24"
+    },
+    "by_side": {
+      "BUY": {
+        "count": 1037,
+        "volume": 75332.98301500022,
+        "avg_price": 0.6089
+      },
+      "SELL": {
+        "count": 263,
+        "volume": 47256.12839000003,
+        "avg_price": 0.4932
+      }
+    },
+    "by_outcome": {
+      "Yes": {
+        "count": 189,
+        "volume": 15220.420010999998
+      },
+      "No": {
+        "count": 248,
+        "volume": 56950.69767899999
+      }
+    },
+    "price_distribution": {
+      "0-0.1": 0,
+      "0.1-0.2": 210,
+      "0.2-0.3": 28,
+      "0.3-0.4": 85,
+      "0.4-0.5": 40,
+      "0.5-0.6": 50,
+      "0.6-0.7": 62,
+      "0.7-0.8": 54,
+      "0.8-0.9": 229,
+      "0.9-1.0": 388
+    },
+    "markets_traded": [
+      {
+        "title": "Bitcoin Up or Down - December 17, 3:00AM-3:15AM ET",
+        "trade_count": 408
+      },
+      {
+        "title": "Ethereum Up or Down - December 17, 3:00AM-3:15AM ET",
+        "trade_count": 95
+      },
+      {
+        "title": "Bitcoin Up or Down - December 17, 3AM ET",
+        "trade_count": 69
+      },
+      {
+        "title": "Solana Up or Down - December 17, 3:00AM-3:15AM ET",
+        "trade_count": 43
+      },
+      {
+        "title": "XRP Up or Down - December 17, 3:00AM-3:15AM ET",
+        "trade_count": 26
+      },
+      {
+        "title": "Ethereum Up or Down - December 17, 3AM ET",
+        "trade_count": 25
+      },
+      {
+        "title": "LoL: Oh My God vs ThunderTalk Gaming (BO3)",
+        "trade_count": 22
+      },
+      {
+        "title": "Hurricanes vs. Predators",
+        "trade_count": 18
+      },
+      {
+        "title": "LoL: Oh My God vs ThunderTalk Gaming - Game 2 Winner",
+        "trade_count": 17
+      },
+      {
+        "title": "LoL: Oh My God vs ThunderTalk Gaming - Game 1 Winner",
+        "trade_count": 15
+      },
+      {
+        "title": "Dota 2: Team Falcons vs PARIVISION (BO3)",
+        "trade_count": 12
+      },
+      {
+        "title": "Solana Up or Down - December 17, 3AM ET",
+        "trade_count": 8
+      },
+      {
+        "title": "Will Elon Musk post 280-299 tweets from December 12 to December 19, 2025?",
+        "trade_count": 7
+      },
+      {
+        "title": "Will Elon Musk post 220-239 tweets from December 12 to December 19, 2025?",
+        "trade_count": 7
+      },
+      {
+        "title": "Grizzlies vs. Timberwolves",
+        "trade_count": 7
+      },
+      {
+        "title": "Bitcoin Up or Down - December 17, 2AM ET",
+        "trade_count": 7
+      },
+      {
+        "title": "Ethereum Up or Down - December 17, 2AM ET",
+        "trade_count": 7
+      },
+      {
+        "title": "Fed decreases interest rates by 50+ bps after January 2026 meeting?",
+        "trade_count": 6
+      },
+      {
+        "title": "Will Bitcoin reach $110,000 by December 31, 2025?",
+        "trade_count": 6
+      },
+      {
+        "title": "Jets vs. Blues",
+        "trade_count": 6
+      }
+    ],
+    "hourly_activity": {
+      "8": 1300
+    },
+    "daily_activity": {
+      "2025-12-17": 1300
+    },
+    "strategy_indicators": {
+      "prefers_low_prices": 0.302,
+      "prefers_high_prices": 0.51,
+      "buy_sell_ratio": 3.943,
+      "yes_no_ratio": 0.762,
+      "avg_trades_per_day": 1300.0,
+      "most_active_hour": 8
+    }
+  }
+}
